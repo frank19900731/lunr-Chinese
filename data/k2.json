@@ -1,0 +1,85 @@
+{
+  "courselist": [
+    {
+      "pptname": "阿里妈妈产品介绍.pptx",
+      "pagenum": "15",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月21日 14：00 - 16：00",
+      "speaker": "主讲：芷玉",
+      "title": "k2 业务及产品介绍"
+    },
+    {
+      "pptname": "UserModel.pptx#UIT++介绍.pptx",
+      "pagenum": "16,28",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月21日 16：00 - 18：00",
+      "speaker": "主讲：士良/杨焜",
+      "title": "User Model & UIT++"
+    },
+    {
+      "pptname": "推荐技术及其在推广营销中的应用.pdf",
+      "pagenum": "34",
+      "status": "状态：已结束",
+      "place": "地点：A6 紫烟岛",
+      "time": "时间：2014年7月23日 14：00 - 16：00",
+      "speaker": "主讲：叶完，小致",
+      "title": "推荐技术应用"
+    },
+    {
+      "pptname": "",
+      "pagenum": "0",
+      "status": "状态：未开始",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月30日 16：00 - 18：00",
+      "speaker": "主讲：东流",
+      "title": "Rtp 模型"
+    },
+    {
+      "pptname": "站外定向业务和算法.pptx",
+      "pagenum": "36",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月28日 14：00 - 16：00",
+      "speaker": "主讲：哈定",
+      "title": "站外业务及算法介绍"
+    },
+    {
+      "pptname": "无线外投方向介绍.pptx",
+      "pagenum": "18",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月28日 16：00 - 18：00",
+      "speaker": "主讲：探微，无当",
+      "title": "无线业务及算法介绍"
+    },
+    {
+      "pptname": "K2系统及开发简介.pptx",
+      "pagenum": "23",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年7月30日 14：00 - 16：00",
+      "speaker": "主讲：虎贲",
+      "title": "k2 系统及开发简介"
+    },
+    {
+      "pptname": "机器学习平台.pptx",
+      "pagenum": "24",
+      "status": "状态：已结束",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年8月4日 14：00 - 16：00",
+      "speaker": "主讲：赵印",
+      "title": "机器学习平台"
+    },
+    {
+      "pptname": "",
+      "pagenum": "0",
+      "status": "状态：未开始",
+      "place": "地点：A6 德仁堂",
+      "time": "时间：2014年8月6日 14：00 - 16：00",
+      "speaker": "主讲：雕侠",
+      "title": "NLP 技术及应用介绍"
+    }
+  ]
+}
